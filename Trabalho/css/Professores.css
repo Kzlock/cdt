@@ -74,14 +74,14 @@ a:hover{
     height: 300%;
 }
 
-.img4{
+.img{
     position: absolute;
      width: 40%;
      top: 30%;
      left: 30%;
     }
 
-    .text4 {
+    .text2 {
         top: 20%;
         position: absolute;
         width: 100%;
@@ -91,7 +91,7 @@ a:hover{
         font-size: 30px;
     }
     
-    .text11{
+    .text1{
         top: 80%;
         position: absolute;
         width: 50%;

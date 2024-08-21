@@ -8,11 +8,11 @@
   margin: 50px 0;
 }
 .box-cards .card {
-  top: 80%;
+  top: 85%;
   left: 30%;
   position: absolute;
-  width: 500px;
-  height: 350px;
+  width: 780px;
+  height: 550px;
   overflow: hidden;
   border-radius: 10px;
   margin: auto;
@@ -73,3 +73,4 @@
   top: -30%;
   opacity: 0.15;
 }
+

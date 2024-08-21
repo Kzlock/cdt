@@ -110,32 +110,12 @@ position: absolute;
      left: 5%;
     }
         .text4 {
-            top: 100%;
+            top: 140%;
         position: absolute;
-        width: 40%;
-        left: 57%;
+        width: 60%;
+        left: 22%;
         text-align: center;
         color: rgb(255, 255, 255);
-        font-size: 30px;
-    }
-
-
-    .text3{
-        top: 90%;
-        position: absolute;
-        width: 40%;
-        left: 57%;
-        text-align: center;
-        color: rgb(0, 0, 0);
-        font-size: 30px;
-}
-    .sobreocelia{
-        top: 170%;
-        position: absolute;
-        width: 40%;
-        left: 8%;
-        text-align: center;
-        color: rgb(0, 0, 0);
         font-size: 30px;
     }
 
@@ -164,6 +144,16 @@ position: absolute;
         width: 40%;
         left: 56%;
         text-align: center;
-        color: rgb(255, 255, 255);
+        color: rgb(36, 13, 13);
         font-size: 30px;    }
         
+        
+    .img2{
+        border-left-color: black;
+
+
+
+
+
+    }
+   
